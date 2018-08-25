@@ -1,0 +1,81 @@
+body{	
+	font-family: 'Black Ops One', cursive;
+	padding: 25px;
+	color: black;
+	text-align: center;
+}
+
+.col-fourth{
+	width: 23.5;
+}
+.col-fourth{
+	position: relative;
+	display: inline-block;
+	float: left;
+	margin-right: 2%;
+	margin-bottom: 20px; 
+}
+.end {
+	margin-right: 0 !important;
+}
+.wrapper{
+	width: 500px;
+	margin: 30px auto;
+		position: relative;
+	}
+.sl{
+	margin-top: 500px;
+}
+
+.slick-prev:before, .slick-next:before {
+    color: red;
+    background: #000;
+}
+.call {
+	margin-top: 1500px;
+}
+.map{
+	margin-top: 2400px;
+	margin-left: 670px;
+	border: 32px;
+	border-color: black;
+}
+#back-top {
+    width:170px;
+    height:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    display:none;
+    text-align:center;
+    font:bold 12px Verdana, sans-serif;
+    text-decoration:none;
+    color:#45688E;
+    padding-top:10px;
+    }
+#back-top:hover {
+    background: rgba(225,231,237, 0.8);
+}
+.vk{
+	margin-top: 120px;
+	margin-left: 1500px;
+}
+.insta{
+	margin-top: 130px;
+	margin-left: 1500px;
+}
+.discord{
+	margin-top: 120px;
+	margin-left: 1500px;
+}
+.twitch{
+	margin-top: 120px;
+	margin-left: 1500px;
+}
+.facebook{
+	margin-top: 120px;
+	margin-left: 1500px;
+}
+.video{
+	margin-top: 500px;
+}
